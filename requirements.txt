@@ -1,2 +1,3 @@
+git+https://github.com/dwillis/agate-sql.git#egg=agate-sql
 csvkit
 mysqlclient
